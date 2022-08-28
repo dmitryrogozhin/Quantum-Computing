@@ -1,0 +1,300 @@
+num: 6801
+	 Shor time: 989	Factors: 3, 2267.
+	Turbo time: 33	Factors: 3, 2267.
+num: 6802
+	 Shor time: 83667	Factors: 2, 19, 179.
+	Turbo time: 148	Factors: 2, 19, 179.
+num: 6803
+	 Shor time: 15121	Factors: 6803.
+	Turbo time: 0	Factors: 6803.
+num: 6804
+	 Shor time: 462	Factors: 2, 2, 3, 7, 3, 3, 3, 3.
+	Turbo time: 445	Factors: 2, 2, 3, 7, 3, 3, 3, 3.
+num: 6805
+	 Shor time: 203	Factors: 5, 1361.
+	Turbo time: 15	Factors: 5, 1361.
+num: 6806
+	 Shor time: 3964	Factors: 2, 41, 83.
+	Turbo time: 327	Factors: 2, 41, 83.
+num: 6807
+	 Shor time: 662	Factors: 3, 2269.
+	Turbo time: 34	Factors: 3, 2269.
+num: 6808
+	 Shor time: 168	Factors: 2, 2, 2, 23, 37.
+	Turbo time: 9	Factors: 2, 2, 2, 23, 37.
+num: 6809
+	 Shor time: 259	Factors: 11, 619.
+	Turbo time: 235	Factors: 11, 619.
+num: 6810
+	 Shor time: 390161	Factors: 2, 3, 5, 227.
+	Turbo time: 4	Factors: 2, 3, 5, 227.
+num: 6811
+	 Shor time: 73040	Factors: 7, 7, 139.
+	Turbo time: 21	Factors: 7, 7, 139.
+num: 6812
+	 Shor time: 69932	Factors: 2, 2, 13, 131.
+	Turbo time: 20	Factors: 2, 2, 13, 131.
+num: 6813
+	 Shor time: 35	Factors: 3, 3, 757.
+	Turbo time: 8	Factors: 3, 3, 757.
+num: 6814
+	 Shor time: 1962	Factors: 2, 3407.
+	Turbo time: 0	Factors: 2, 3407.
+num: 6815
+	 Shor time: 629	Factors: 5, 29, 47.
+	Turbo time: 44	Factors: 5, 29, 47.
+num: 6816
+	 Shor time: 30892	Factors: 2, 2, 2, 2, 2, 3, 71.
+	Turbo time: 27838	Factors: 2, 2, 2, 2, 2, 3, 71.
+num: 6817
+	 Shor time: 26	Factors: 17, 401.
+	Turbo time: 12	Factors: 17, 401.
+num: 6818
+	 Shor time: 22	Factors: 2, 7, 487.
+	Turbo time: 6	Factors: 2, 7, 487.
+num: 6819
+	 Shor time: 1029	Factors: 3, 2273.
+	Turbo time: 2	Factors: 3, 2273.
+num: 6820
+	 Shor time: 29	Factors: 2, 2, 5, 11, 31.
+	Turbo time: 0	Factors: 2, 2, 5, 11, 31.
+num: 6821
+	 Shor time: 555	Factors: 19, 359.
+	Turbo time: 529	Factors: 19, 359.
+num: 6822
+	 Shor time: 12	Factors: 2, 3, 3, 379.
+	Turbo time: 1	Factors: 2, 3, 3, 379.
+num: 6823
+	 Shor time: 10796	Factors: 6823.
+	Turbo time: 0	Factors: 6823.
+num: 6824
+	 Shor time: 47	Factors: 2, 2, 2, 853.
+	Turbo time: 0	Factors: 2, 2, 2, 853.
+num: 6825
+	 Shor time: 1344	Factors: 3, 7, 5, 5, 13.
+	Turbo time: 1320	Factors: 3, 7, 5, 5, 13.
+num: 6826
+	 Shor time: 2558	Factors: 2, 3413.
+	Turbo time: 0	Factors: 2, 3413.
+num: 6827
+	 Shor time: 15073	Factors: 6827.
+	Turbo time: 0	Factors: 6827.
+num: 6828
+	 Shor time: 23	Factors: 2, 2, 3, 569.
+	Turbo time: 1	Factors: 2, 2, 3, 569.
+num: 6829
+	 Shor time: 8826	Factors: 6829.
+	Turbo time: 0	Factors: 6829.
+num: 6830
+	 Shor time: 42	Factors: 2, 683, 5.
+	Turbo time: 0	Factors: 2, 683, 5.
+num: 6831
+	 Shor time: 250656	Factors: 3, 3, 3, 11, 23.
+	Turbo time: 250356	Factors: 3, 3, 3, 11, 23.
+num: 6832
+	 Shor time: 669	Factors: 2, 2, 2, 2, 7, 61.
+	Turbo time: 0	Factors: 2, 2, 2, 2, 7, 61.
+num: 6833
+	 Shor time: 12895	Factors: 6833.
+	Turbo time: 0	Factors: 6833.
+num: 6834
+	 Shor time: 3081	Factors: 2, 3, 17, 67.
+	Turbo time: 10	Factors: 2, 3, 17, 67.
+num: 6835
+	 Shor time: 363	Factors: 5, 1367.
+	Turbo time: 112	Factors: 5, 1367.
+num: 6836
+	 Shor time: 372	Factors: 2, 2, 1709.
+	Turbo time: 0	Factors: 2, 2, 1709.
+num: 6837
+	 Shor time: 902	Factors: 3, 43, 53.
+	Turbo time: 109	Factors: 3, 43, 53.
+num: 6838
+	 Shor time: 82	Factors: 2, 13, 263.
+	Turbo time: 78	Factors: 2, 13, 263.
+num: 6839
+	 Shor time: 232	Factors: 7, 977.
+	Turbo time: 135	Factors: 7, 977.
+num: 6840
+	 Shor time: 7073	Factors: 2, 2, 2, 3, 3, 19, 5.
+	Turbo time: 7076	Factors: 2, 2, 2, 3, 3, 19, 5.
+num: 6841
+	 Shor time: 4711	Factors: 6841.
+	Turbo time: 0	Factors: 6841.
+num: 6842
+	 Shor time: 6	Factors: 2, 11, 311.
+	Turbo time: 3	Factors: 2, 11, 311.
+num: 6843
+	 Shor time: 244	Factors: 3, 2281.
+	Turbo time: 1	Factors: 3, 2281.
+num: 6844
+	 Shor time: 750	Factors: 2, 2, 29, 59.
+	Turbo time: 61	Factors: 2, 2, 29, 59.
+num: 6845
+	 Shor time: 453	Factors: 5, 37, 37.
+	Turbo time: 180	Factors: 5, 37, 37.
+num: 6846
+	 Shor time: 76490	Factors: 2, 3, 7, 163.
+	Turbo time: 1	Factors: 2, 3, 7, 163.
+num: 6847
+	 Shor time: 77992	Factors: 41, 167.
+	Turbo time: 1335	Factors: 41, 167.
+num: 6848
+	 Shor time: 15696	Factors: 2, 2, 2, 2, 2, 2, 107.
+	Turbo time: 0	Factors: 2, 2, 2, 2, 2, 2, 107.
+num: 6849
+	 Shor time: 46	Factors: 3, 3, 761.
+	Turbo time: 10	Factors: 3, 3, 761.
+num: 6850
+	 Shor time: 69803	Factors: 2, 5, 5, 137.
+	Turbo time: 5	Factors: 2, 5, 5, 137.
+num: 6851
+	 Shor time: 36	Factors: 13, 31, 17.
+	Turbo time: 2	Factors: 13, 31, 17.
+num: 6852
+	 Shor time: 16	Factors: 2, 2, 3, 571.
+	Turbo time: 1	Factors: 2, 2, 3, 571.
+num: 6853
+	 Shor time: 3525	Factors: 7, 11, 89.
+	Turbo time: 21	Factors: 7, 11, 89.
+num: 6854
+	 Shor time: 77525	Factors: 2, 23, 149.
+	Turbo time: 226	Factors: 2, 23, 149.
+num: 6855
+	 Shor time: 5	Factors: 3, 5, 457.
+	Turbo time: 1	Factors: 3, 5, 457.
+num: 6856
+	 Shor time: 82	Factors: 2, 2, 2, 857.
+	Turbo time: 0	Factors: 2, 2, 2, 857.
+num: 6857
+	 Shor time: 12931	Factors: 6857.
+	Turbo time: 1	Factors: 6857.
+num: 6858
+	 Shor time: 17456	Factors: 2, 3, 127, 3, 3.
+	Turbo time: 1	Factors: 2, 3, 127, 3, 3.
+num: 6859
+	 Shor time: 2158	Factors: 19, 19, 19.
+	Turbo time: 2141	Factors: 19, 19, 19.
+num: 6860
+	 Shor time: 565	Factors: 2, 2, 5, 7, 7, 7.
+	Turbo time: 553	Factors: 2, 2, 5, 7, 7, 7.
+num: 6861
+	 Shor time: 400	Factors: 3, 2287.
+	Turbo time: 4	Factors: 3, 2287.
+num: 6862
+	 Shor time: 3984	Factors: 2, 47, 73.
+	Turbo time: 354	Factors: 2, 47, 73.
+num: 6863
+	 Shor time: 12747	Factors: 6863.
+	Turbo time: 0	Factors: 6863.
+num: 6864
+	 Shor time: 29	Factors: 2, 2, 2, 2, 3, 11, 13.
+	Turbo time: 27	Factors: 2, 2, 2, 2, 3, 11, 13.
+num: 6865
+	 Shor time: 279	Factors: 5, 1373.
+	Turbo time: 28	Factors: 5, 1373.
+num: 6866
+	 Shor time: 1303	Factors: 2, 3433.
+	Turbo time: 0	Factors: 2, 3433.
+num: 6867
+	 Shor time: 15838	Factors: 7, 3, 3, 109.
+	Turbo time: 111	Factors: 7, 3, 3, 109.
+num: 6868
+	 Shor time: 15731	Factors: 2, 2, 17, 101.
+	Turbo time: 7	Factors: 2, 2, 17, 101.
+num: 6869
+	 Shor time: 13034	Factors: 6869.
+	Turbo time: 0	Factors: 6869.
+num: 6870
+	 Shor time: 389988	Factors: 2, 3, 5, 229.
+	Turbo time: 0	Factors: 2, 3, 5, 229.
+num: 6871
+	 Shor time: 8720	Factors: 6871.
+	Turbo time: 0	Factors: 6871.
+num: 6872
+	 Shor time: 37	Factors: 2, 2, 2, 859.
+	Turbo time: 0	Factors: 2, 2, 2, 859.
+num: 6873
+	 Shor time: 3157	Factors: 3, 29, 79.
+	Turbo time: 65	Factors: 3, 29, 79.
+num: 6874
+	 Shor time: 51	Factors: 2, 7, 491.
+	Turbo time: 35	Factors: 2, 7, 491.
+num: 6875
+	 Shor time: 26	Factors: 5, 5, 11, 5, 5.
+	Turbo time: 25	Factors: 5, 5, 11, 5, 5.
+num: 6876
+	 Shor time: 334509	Factors: 2, 2, 3, 3, 191.
+	Turbo time: 2	Factors: 2, 2, 3, 3, 191.
+num: 6877
+	 Shor time: 361	Factors: 13, 23, 23.
+	Turbo time: 315	Factors: 13, 23, 23.
+num: 6878
+	 Shor time: 83457	Factors: 2, 19, 181.
+	Turbo time: 2	Factors: 2, 19, 181.
+num: 6879
+	 Shor time: 644	Factors: 3, 2293.
+	Turbo time: 34	Factors: 3, 2293.
+num: 6880
+	 Shor time: 83485	Factors: 2, 2, 2, 2, 2, 5, 43.
+	Turbo time: 83502	Factors: 2, 2, 2, 2, 2, 5, 43.
+num: 6881
+	 Shor time: 249	Factors: 7, 983.
+	Turbo time: 150	Factors: 7, 983.
+num: 6882
+	 Shor time: 170	Factors: 2, 3, 31, 37.
+	Turbo time: 0	Factors: 2, 3, 31, 37.
+num: 6883
+	 Shor time: 9962	Factors: 6883.
+	Turbo time: 0	Factors: 6883.
+num: 6884
+	 Shor time: 286	Factors: 2, 2, 1721.
+	Turbo time: 0	Factors: 2, 2, 1721.
+num: 6885
+	 Shor time: 27789	Factors: 3, 3, 3, 3, 5, 17.
+	Turbo time: 28192	Factors: 3, 3, 3, 3, 5, 17.
+num: 6886
+	 Shor time: 11	Factors: 2, 11, 313.
+	Turbo time: 9	Factors: 2, 11, 313.
+num: 6887
+	 Shor time: 18185	Factors: 71, 97.
+	Turbo time: 1224	Factors: 71, 97.
+num: 6888
+	 Shor time: 142	Factors: 2, 2, 2, 3, 7, 41.
+	Turbo time: 2	Factors: 2, 2, 2, 3, 7, 41.
+num: 6889
+	 Shor time: 21918	Factors: 83, 83.
+	Turbo time: 14930	Factors: 83, 83.
+num: 6890
+	 Shor time: 667	Factors: 2, 5, 13, 53.
+	Turbo time: 2	Factors: 2, 5, 13, 53.
+num: 6891
+	 Shor time: 678	Factors: 3, 2297.
+	Turbo time: 9	Factors: 3, 2297.
+num: 6892
+	 Shor time: 208	Factors: 2, 2, 1723.
+	Turbo time: 0	Factors: 2, 2, 1723.
+num: 6893
+	 Shor time: 16594	Factors: 61, 113.
+	Turbo time: 301	Factors: 61, 113.
+num: 6894
+	 Shor time: 18	Factors: 2, 3, 3, 383.
+	Turbo time: 10	Factors: 2, 3, 3, 383.
+num: 6895
+	 Shor time: 361824	Factors: 5, 7, 197.
+	Turbo time: 13	Factors: 5, 7, 197.
+num: 6896
+	 Shor time: 6	Factors: 2, 2, 2, 2, 431.
+	Turbo time: 0	Factors: 2, 2, 2, 2, 431.
+num: 6897
+	 Shor time: 251181	Factors: 3, 11, 11, 19.
+	Turbo time: 250393	Factors: 3, 11, 11, 19.
+num: 6898
+	 Shor time: 2373	Factors: 2, 3449.
+	Turbo time: 0	Factors: 2, 3449.
+num: 6899
+	 Shor time: 14824	Factors: 6899.
+	Turbo time: 0	Factors: 6899.
+num: 6900
+	 Shor time: 1776	Factors: 2, 2, 3, 5, 23, 5.
+	Turbo time: 1755	Factors: 2, 2, 3, 5, 23, 5.
